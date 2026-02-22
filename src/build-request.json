@@ -1,0 +1,90 @@
+{
+  "kind": "build_request",
+  "title": "Create school website with information and contact details",
+  "projectName": "Vandey Bharti School",
+  "priority": "normal",
+  "requirements": [
+    {
+      "id": "REQ-1",
+      "text": "Create a homepage displaying the school name 'Vandey Bharti National Intermediate College' as the main heading",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "my school name is vandey bharti national intermediate college"
+        ]
+      },
+      "acceptanceCriteria": [
+        "School name is prominently displayed as the main heading on the homepage",
+        "Text is properly formatted and readable"
+      ]
+    },
+    {
+      "id": "REQ-2",
+      "text": "Display the complete school address: Shyamdeurwa, Mahmada, Uttar Pradesh (273301)",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "the address is shyamdeurwa, mahmada, uttarpradesh (273301)"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Full address is displayed with proper formatting",
+        "Pin code 273301 is included",
+        "Address is easily readable and correctly spelled"
+      ]
+    },
+    {
+      "id": "REQ-3",
+      "text": "Display the school contact phone number: 09118508216",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ],
+        "quotes": [
+          "my mobile no. is 09118508216"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Phone number 09118508216 is displayed",
+        "Number is formatted for readability",
+        "Contact information is clearly labeled"
+      ]
+    },
+    {
+      "id": "REQ-4",
+      "text": "Design a professional educational website theme with a cohesive color scheme (avoid blue and purple), appropriate typography for an academic institution, and a clean, organized layout that conveys trust and credibility suitable for a school website",
+      "target": "frontend",
+      "source": {
+        "messageIds": [
+          "msg-2"
+        ]
+      },
+      "acceptanceCriteria": [
+        "Visual design is appropriate for an educational institution",
+        "Color scheme is professional and cohesive",
+        "Layout is clean and organized",
+        "Typography is readable and suitable for academic content"
+      ]
+    }
+  ],
+  "constraints": [],
+  "nonGoals": [
+    "Student information management system",
+    "Online admission portal",
+    "Staff directory or teacher profiles",
+    "News or events section",
+    "Photo gallery",
+    "Download section for documents"
+  ],
+  "imageRequirements": {
+    "required": [],
+    "edits": []
+  }
+}

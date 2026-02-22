@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectStateVersion": 3,
+  "summary": "School website for Vandey Bharti National Intermediate College with contact information and address details",
+  "architectural_notes": [
+    "School website for Vandey Bharti National Intermediate College",
+    "Display school address: Shyamdeurwa, Mahmada, Uttar Pradesh (273301)",
+    "Include contact number: 09118508216"
+  ],
+  "known_issues": [],
+  "isFixRequest": false,
+  "existing_features": [
+    {
+      "id": "feature-create-a-homepage-displaying-the-school-name-vandey-bharti-national-intermediate-college-as-the-main-heading",
+      "title": "Create a homepage displaying the school name 'Vandey Bharti National Intermediate College' as the main heading",
+      "reqIds": [
+        "REQ-1"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-display-the-complete-school-address-shyamdeurwa-mahmada-uttar-pradesh-273301",
+      "title": "Display the complete school address: Shyamdeurwa, Mahmada, Uttar Pradesh (273301)",
+      "reqIds": [
+        "REQ-2"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-display-the-school-contact-phone-number-09118508216",
+      "title": "Display the school contact phone number: 09118508216",
+      "reqIds": [
+        "REQ-3"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-design-a-professional-educational-website-theme-with-a-cohesive-color-scheme-avoid-blue-and-purple-appropriate-typography-for-an-academic-institution-and-a-clean-organized-layout-that-conveys-trust-and-credibility-suitable-for-a-school-website",
+      "title": "Design a professional educational website theme with a cohesive color scheme (avoid blue and purple), appropriate typography for an academic institution, and a clean, organized layout that conveys trust and credibility suitable for a school website",
+      "reqIds": [
+        "REQ-4"
+      ],
+      "version": 1
+    }
+  ],
+  "new_feature_requests": [
+    {
+      "id": "AR-1",
+      "summary": "Create school website with name, address, and contact information",
+      "reqIds": [],
+      "status": "pending"
+    }
+  ],
+  "projectName": "Vandey Bharti National Intermediate College Website",
+  "clarification_mode": "instant",
+  "clarification_rounds": 0
+}

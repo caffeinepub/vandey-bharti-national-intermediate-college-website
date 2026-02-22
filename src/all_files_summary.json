@@ -1,0 +1,15 @@
+{
+  "backend/main.mo": "Empty Motoko actor with no methods or state, serving as a placeholder backend.",
+  "feature_evidence.json": "Feature evidence report documenting four implemented features: homepage with school name, address display, phone number display, and professional educational theme design.",
+  "frontend-file-summaries.txt": "JSON summary of frontend files describing the main App component, global styles with warm burgundy/gold palette, Tailwind config with educational theme, and empty hooks file.",
+  "frontend/index.css": "Tailwind base styles with CSS custom properties defining a monochrome color system using OKLCH values for light and dark modes.",
+  "frontend/index.html": "HTML entry point with root div and module script reference to main.tsx, titled 'Vandey Bharti National Intermediate College Website'.",
+  "frontend/src/App.tsx": "Main React component rendering the school website with header, welcome section, feature cards (Quality Education, Experienced Faculty, Holistic Development), and contact information section.",
+  "frontend/src/hooks/useActor.ts": "React hook managing ICP actor creation with Internet Identity authentication, handling both authenticated and anonymous actors with query invalidation on identity changes.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React context provider and hook for Internet Identity authentication, managing login state, identity storage, and AuthClient lifecycle.",
+  "frontend/src/hooks/useQueries.ts": "Intentionally empty file as the static informational website requires no backend query methods.",
+  "frontend/src/index.css": "Tailwind styles with custom OKLCH color variables defining a warm burgundy and gold educational theme for light and dark modes.",
+  "frontend/src/main.tsx": "React application entry point setting up QueryClient, InternetIdentityProvider, and rendering the App component.",
+  "frontend/tailwind.config.js": "Tailwind configuration extending default theme with OKLCH color system, custom fonts (Inter, Merriweather), educational color palette, custom shadows, and accordion animations.",
+  "project_state.json": "Project state file for a school website featuring Vandey Bharti National Intermediate College with contact details and address. Tracks four existing features (homepage, address display, phone number, and professional theme) and one pending feature request."
+}

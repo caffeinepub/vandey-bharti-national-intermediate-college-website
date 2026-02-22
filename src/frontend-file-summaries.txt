@@ -1,0 +1,6 @@
+{
+  "frontend/src/App.tsx": "Main application component displaying the school website with header, welcome section, feature cards, contact information (address and phone), call-to-action, and footer with attribution.",
+  "frontend/src/index.css": "Global styles with OKLCH color system using a warm educational palette (burgundy and gold theme) for both light and dark modes, avoiding typical blue/purple AI aesthetics.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with custom educational color palette, serif font family for traditional academic feel, and custom shadow utilities.",
+  "frontend/src/hooks/useQueries.ts": "Empty placeholder file for React Query hooks (no backend methods needed for this static informational website)."
+}

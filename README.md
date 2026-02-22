@@ -1,2 +1,3 @@
-# vandey-bharti-national-intermediate-college-website
-Exported from Caffeine project: Vandey Bharti National Intermediate College Website
+## Vandey Bharti National Intermediate College Website
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`
